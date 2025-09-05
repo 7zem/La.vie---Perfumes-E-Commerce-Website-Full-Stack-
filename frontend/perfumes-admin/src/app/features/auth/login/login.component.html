@@ -1,0 +1,27 @@
+<div class="login-container">
+  <form [formGroup]="form" (ngSubmit)="submit()">
+    <h2>Sign in</h2>
+    <div class="field">
+      <label>Email</label>
+      <input type="email" formControlName="email" placeholder="you@example.com" />
+    </div>
+    <div class="field">
+      <label>Password</label>
+      <input type="password" formControlName="password" placeholder="••••••••" />
+    </div>
+    <div class="row">
+      <label><input type="checkbox" formControlName="rememberMe" /> Remember me</label>
+      <a routerLink="/" class="forgot">Forgot password?</a>
+    </div>
+    <div class="actions">
+      <button type="submit" [disabled]="loading()">Sign in</button>
+    </div>
+    <div class="row alt">
+      <span class="muted">Don't have an account?</span>
+      <a routerLink="/register" class="register">Create account</a>
+    </div>
+    <p class="error" *ngIf="error()">{{ error() }}</p>
+  </form>
+</div>
+
+

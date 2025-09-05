@@ -1,0 +1,3124 @@
+{
+  "Version": 1,
+  "Hash": "IBuXOU6/5ybfNTJnbf+k9prkvKM5ENfqewTvPyeqJUY=",
+  "Source": "Perfumes.API",
+  "BasePath": "_content/Perfumes.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.BLL\\Perfumes.BLL.csproj",
+      "Version": 2,
+      "Source": "Perfumes.BLL",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Perfumes.API\\wwwroot",
+      "Source": "Perfumes.API",
+      "ContentRoot": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\",
+      "BasePath": "_content/Perfumes.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\brands\\140581fa-664c-4e11-a340-32fbeea86bb4.jpg",
+      "SourceId": "Perfumes.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\",
+      "BasePath": "_content/Perfumes.API",
+      "RelativePath": "images/brands/140581fa-664c-4e11-a340-32fbeea86bb4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3vzzs7q0vm",
+      "Integrity": "T1gQWGrXKc0+mgzqPTSG8975bp/YPf+A7uzdDPe9L2g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\brands\\140581fa-664c-4e11-a340-32fbeea86bb4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\brands\\3f4f9533-3560-4345-9fc5-f9eb7c53e16e.jpg",
+      "SourceId": "Perfumes.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\",
+      "BasePath": "_content/Perfumes.API",
+      "RelativePath": "images/brands/3f4f9533-3560-4345-9fc5-f9eb7c53e16e#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s8ymxdnyuo",
+      "Integrity": "3FslpOgeUNcVgF+rdSaLeEWHZDTRwbOYqTYUoV5eGDk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\brands\\3f4f9533-3560-4345-9fc5-f9eb7c53e16e.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\brands\\445fb4c7-2ecd-460b-a589-c6b93f27b2c2.jpg",
+      "SourceId": "Perfumes.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\",
+      "BasePath": "_content/Perfumes.API",
+      "RelativePath": "images/brands/445fb4c7-2ecd-460b-a589-c6b93f27b2c2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "025maqpn01",
+      "Integrity": "GAWJbds2Ri98w0BS+IX/xD+4mjX+e6W4Ht4QTvZ+nLU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\brands\\445fb4c7-2ecd-460b-a589-c6b93f27b2c2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\brands\\7d40b23e-0a63-46fd-8f9b-172291814d2c.png",
+      "SourceId": "Perfumes.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\",
+      "BasePath": "_content/Perfumes.API",
+      "RelativePath": "images/brands/7d40b23e-0a63-46fd-8f9b-172291814d2c#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zvd1mnplfq",
+      "Integrity": "caGrnlFQSdKwSAyxvHG4BhfGJ2amZ2PGDUVqX4H/ysw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\brands\\7d40b23e-0a63-46fd-8f9b-172291814d2c.png"
+    },
+    {
+      "Identity": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\brands\\7e1de2d8-a964-41ce-b787-6f3bf4685dd4.png",
+      "SourceId": "Perfumes.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\",
+      "BasePath": "_content/Perfumes.API",
+      "RelativePath": "images/brands/7e1de2d8-a964-41ce-b787-6f3bf4685dd4#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "q0qmx89xux",
+      "Integrity": "xiGtnlx7xyq4P7mwJbweXwzo3ks9UTGdgc8JP+rwkfY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\brands\\7e1de2d8-a964-41ce-b787-6f3bf4685dd4.png"
+    },
+    {
+      "Identity": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\brands\\8f900826-82ae-47f6-a99f-1d9bda9dafaa.jpg",
+      "SourceId": "Perfumes.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\",
+      "BasePath": "_content/Perfumes.API",
+      "RelativePath": "images/brands/8f900826-82ae-47f6-a99f-1d9bda9dafaa#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6ptgti8t7m",
+      "Integrity": "poAYTKQEIjOJw80q2S1+Fvjjf3K/4AbrwrBYhexMw3Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\brands\\8f900826-82ae-47f6-a99f-1d9bda9dafaa.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\brands\\9b36669e-756c-44c4-a1ce-57c656e3adaf.png",
+      "SourceId": "Perfumes.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\",
+      "BasePath": "_content/Perfumes.API",
+      "RelativePath": "images/brands/9b36669e-756c-44c4-a1ce-57c656e3adaf#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eh0oeg031p",
+      "Integrity": "jhnO9BChHaKISfmBSJSsFe/PKcFvU5RTqYpiHL2IdjI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\brands\\9b36669e-756c-44c4-a1ce-57c656e3adaf.png"
+    },
+    {
+      "Identity": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\brands\\a4028f33-4415-4b52-87e7-307089b5bb51.png",
+      "SourceId": "Perfumes.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\",
+      "BasePath": "_content/Perfumes.API",
+      "RelativePath": "images/brands/a4028f33-4415-4b52-87e7-307089b5bb51#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sf4qa98m8p",
+      "Integrity": "+KYwqpbzVcIRDYYPmJ7FqQz/PZ5vbYC/S9uxdj0rC/8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\brands\\a4028f33-4415-4b52-87e7-307089b5bb51.png"
+    },
+    {
+      "Identity": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\brands\\b4538d37-b762-4f49-be44-2609cafdf97a.jpg",
+      "SourceId": "Perfumes.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\",
+      "BasePath": "_content/Perfumes.API",
+      "RelativePath": "images/brands/b4538d37-b762-4f49-be44-2609cafdf97a#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p761ahy2gn",
+      "Integrity": "taNe55ZOLv04ZSedC8xYLsvkTccRQtFVqmhCQXhjnCw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\brands\\b4538d37-b762-4f49-be44-2609cafdf97a.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\brands\\dbc5f091-324a-420c-9b16-6a88dbd206a2.png",
+      "SourceId": "Perfumes.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\",
+      "BasePath": "_content/Perfumes.API",
+      "RelativePath": "images/brands/dbc5f091-324a-420c-9b16-6a88dbd206a2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "usnc9olvs0",
+      "Integrity": "guOuj8YYrWe/wqBB6JWFuK4qvr2T9CjwIhSpi28iYz8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\brands\\dbc5f091-324a-420c-9b16-6a88dbd206a2.png"
+    },
+    {
+      "Identity": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\brands\\fe6a4082-0603-4c61-90dd-94d287d0f5c0.jpg",
+      "SourceId": "Perfumes.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\",
+      "BasePath": "_content/Perfumes.API",
+      "RelativePath": "images/brands/fe6a4082-0603-4c61-90dd-94d287d0f5c0#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2gcyhpneka",
+      "Integrity": "fue7Rq7CbNezUaH+/0S6FQVDQgOrP6liLvpjYA4Tm/4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\brands\\fe6a4082-0603-4c61-90dd-94d287d0f5c0.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\0b171b2a-cd30-44f8-a852-c2a9b38626ca.png",
+      "SourceId": "Perfumes.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\",
+      "BasePath": "_content/Perfumes.API",
+      "RelativePath": "images/products/0b171b2a-cd30-44f8-a852-c2a9b38626ca#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fpqafcwyvo",
+      "Integrity": "TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG+At74=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\0b171b2a-cd30-44f8-a852-c2a9b38626ca.png"
+    },
+    {
+      "Identity": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\1bba56cb-f2de-4dd0-a59b-d7669b332ab9.png",
+      "SourceId": "Perfumes.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\",
+      "BasePath": "_content/Perfumes.API",
+      "RelativePath": "images/products/1bba56cb-f2de-4dd0-a59b-d7669b332ab9#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "70u4cew1d5",
+      "Integrity": "5zQN6MyrlYtnIkw5Xxo1Xgzp4yfxrXqrUSsY4nRWdrI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\1bba56cb-f2de-4dd0-a59b-d7669b332ab9.png"
+    },
+    {
+      "Identity": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\296df57d-0603-4319-a33d-b53e959d73d8.png",
+      "SourceId": "Perfumes.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\",
+      "BasePath": "_content/Perfumes.API",
+      "RelativePath": "images/products/296df57d-0603-4319-a33d-b53e959d73d8#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v68vkkmhbu",
+      "Integrity": "Nz9sz5xi4EMxrnIhFJExioCwayFd5IuQt83hBlBWkZ0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\296df57d-0603-4319-a33d-b53e959d73d8.png"
+    },
+    {
+      "Identity": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\2983330c-2d89-459d-af5c-076aaaf4cd90.jpg",
+      "SourceId": "Perfumes.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\",
+      "BasePath": "_content/Perfumes.API",
+      "RelativePath": "images/products/2983330c-2d89-459d-af5c-076aaaf4cd90#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p761ahy2gn",
+      "Integrity": "taNe55ZOLv04ZSedC8xYLsvkTccRQtFVqmhCQXhjnCw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\2983330c-2d89-459d-af5c-076aaaf4cd90.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\471de0c3-afb7-4322-9c71-cb9077f7ca25.jpg",
+      "SourceId": "Perfumes.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\",
+      "BasePath": "_content/Perfumes.API",
+      "RelativePath": "images/products/471de0c3-afb7-4322-9c71-cb9077f7ca25#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2gcyhpneka",
+      "Integrity": "fue7Rq7CbNezUaH+/0S6FQVDQgOrP6liLvpjYA4Tm/4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\471de0c3-afb7-4322-9c71-cb9077f7ca25.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\4be66866-b082-420a-bdd1-77d83cfffb83.jpg",
+      "SourceId": "Perfumes.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\",
+      "BasePath": "_content/Perfumes.API",
+      "RelativePath": "images/products/4be66866-b082-420a-bdd1-77d83cfffb83#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6rwel47k57",
+      "Integrity": "UtIGT7Dmi4BUcHskLpxrWIhPeVN86BjT6HRvfOiG1hU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\4be66866-b082-420a-bdd1-77d83cfffb83.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\5e342f0b-43dd-4b00-9cc9-8c3eaf7dbd81.png",
+      "SourceId": "Perfumes.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\",
+      "BasePath": "_content/Perfumes.API",
+      "RelativePath": "images/products/5e342f0b-43dd-4b00-9cc9-8c3eaf7dbd81#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fpqafcwyvo",
+      "Integrity": "TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG+At74=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\5e342f0b-43dd-4b00-9cc9-8c3eaf7dbd81.png"
+    },
+    {
+      "Identity": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\62c66712-6db7-4262-ac98-9b4777b307ba.png",
+      "SourceId": "Perfumes.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\",
+      "BasePath": "_content/Perfumes.API",
+      "RelativePath": "images/products/62c66712-6db7-4262-ac98-9b4777b307ba#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vljbeq1cjb",
+      "Integrity": "/UGju8jhUpuYrmis9zWAwS72e9PklxAdgLcZwM2+DtI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\62c66712-6db7-4262-ac98-9b4777b307ba.png"
+    },
+    {
+      "Identity": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\79bd1f61-005a-49b5-b513-099e9e96c024.png",
+      "SourceId": "Perfumes.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\",
+      "BasePath": "_content/Perfumes.API",
+      "RelativePath": "images/products/79bd1f61-005a-49b5-b513-099e9e96c024#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "orgjub5iwg",
+      "Integrity": "XGpgIPr7t+OTc+WBcg3c8mcdWgSgwuZ/QcMn2WoUb8k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\79bd1f61-005a-49b5-b513-099e9e96c024.png"
+    },
+    {
+      "Identity": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\7dddf9f8-e566-4271-8f09-f9d93d331e9b.png",
+      "SourceId": "Perfumes.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\",
+      "BasePath": "_content/Perfumes.API",
+      "RelativePath": "images/products/7dddf9f8-e566-4271-8f09-f9d93d331e9b#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "49ii7anw9q",
+      "Integrity": "GJQx4Gsi7RjFff2RKFe+YwXF4JR1eLLnXlbKn7q9Mlk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\7dddf9f8-e566-4271-8f09-f9d93d331e9b.png"
+    },
+    {
+      "Identity": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\8a25f4bb-5fea-4b21-b177-c931faab2334.png",
+      "SourceId": "Perfumes.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\",
+      "BasePath": "_content/Perfumes.API",
+      "RelativePath": "images/products/8a25f4bb-5fea-4b21-b177-c931faab2334#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fpqafcwyvo",
+      "Integrity": "TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG+At74=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\8a25f4bb-5fea-4b21-b177-c931faab2334.png"
+    },
+    {
+      "Identity": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\a065dc9e-431b-4d71-ab0d-21e42c101011.png",
+      "SourceId": "Perfumes.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\",
+      "BasePath": "_content/Perfumes.API",
+      "RelativePath": "images/products/a065dc9e-431b-4d71-ab0d-21e42c101011#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fpqafcwyvo",
+      "Integrity": "TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG+At74=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\a065dc9e-431b-4d71-ab0d-21e42c101011.png"
+    },
+    {
+      "Identity": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\a6b30b21-549e-4fb4-9b9c-a682cb643f8c.png",
+      "SourceId": "Perfumes.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\",
+      "BasePath": "_content/Perfumes.API",
+      "RelativePath": "images/products/a6b30b21-549e-4fb4-9b9c-a682cb643f8c#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fpqafcwyvo",
+      "Integrity": "TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG+At74=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\a6b30b21-549e-4fb4-9b9c-a682cb643f8c.png"
+    },
+    {
+      "Identity": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\ad0d941f-7bcc-4c6f-a9ce-47a44da8d13e.png",
+      "SourceId": "Perfumes.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\",
+      "BasePath": "_content/Perfumes.API",
+      "RelativePath": "images/products/ad0d941f-7bcc-4c6f-a9ce-47a44da8d13e#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "aravvctaiy",
+      "Integrity": "yjjiCmy/egzkMwvRxnAo307N/99riivPv1TbdRpjoyk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\ad0d941f-7bcc-4c6f-a9ce-47a44da8d13e.png"
+    },
+    {
+      "Identity": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\b25ca46e-3389-4d58-abd5-fe029378d33b.jpg",
+      "SourceId": "Perfumes.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\",
+      "BasePath": "_content/Perfumes.API",
+      "RelativePath": "images/products/b25ca46e-3389-4d58-abd5-fe029378d33b#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "49g4mf0c46",
+      "Integrity": "SJ0d6EIblwxxfwB8gMqXN9McyfmUkz+N0aanDbc+Xa4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\b25ca46e-3389-4d58-abd5-fe029378d33b.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\d48cc33a-89e1-4a0a-98eb-de34436c3586.png",
+      "SourceId": "Perfumes.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\",
+      "BasePath": "_content/Perfumes.API",
+      "RelativePath": "images/products/d48cc33a-89e1-4a0a-98eb-de34436c3586#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fpqafcwyvo",
+      "Integrity": "TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG+At74=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\d48cc33a-89e1-4a0a-98eb-de34436c3586.png"
+    },
+    {
+      "Identity": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\d7ea4af4-5125-49a4-bdde-b92285e1fc52.png",
+      "SourceId": "Perfumes.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\",
+      "BasePath": "_content/Perfumes.API",
+      "RelativePath": "images/products/d7ea4af4-5125-49a4-bdde-b92285e1fc52#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fpqafcwyvo",
+      "Integrity": "TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG+At74=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\d7ea4af4-5125-49a4-bdde-b92285e1fc52.png"
+    },
+    {
+      "Identity": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\f8432280-7f08-4df8-8db8-47eb485aa843.jpg",
+      "SourceId": "Perfumes.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\",
+      "BasePath": "_content/Perfumes.API",
+      "RelativePath": "images/products/f8432280-7f08-4df8-8db8-47eb485aa843#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s8ymxdnyuo",
+      "Integrity": "3FslpOgeUNcVgF+rdSaLeEWHZDTRwbOYqTYUoV5eGDk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\f8432280-7f08-4df8-8db8-47eb485aa843.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\fc3d08ff-ed8c-4948-afca-024a1e1f4f6b.png",
+      "SourceId": "Perfumes.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\",
+      "BasePath": "_content/Perfumes.API",
+      "RelativePath": "images/products/fc3d08ff-ed8c-4948-afca-024a1e1f4f6b#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fpqafcwyvo",
+      "Integrity": "TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG+At74=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\fc3d08ff-ed8c-4948-afca-024a1e1f4f6b.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/brands/140581fa-664c-4e11-a340-32fbeea86bb4.3vzzs7q0vm.jpg",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\brands\\140581fa-664c-4e11-a340-32fbeea86bb4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44721"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T1gQWGrXKc0+mgzqPTSG8975bp/YPf+A7uzdDPe9L2g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 11:58:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3vzzs7q0vm"
+        },
+        {
+          "Name": "label",
+          "Value": "images/brands/140581fa-664c-4e11-a340-32fbeea86bb4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-T1gQWGrXKc0+mgzqPTSG8975bp/YPf+A7uzdDPe9L2g="
+        }
+      ]
+    },
+    {
+      "Route": "images/brands/140581fa-664c-4e11-a340-32fbeea86bb4.jpg",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\brands\\140581fa-664c-4e11-a340-32fbeea86bb4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44721"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T1gQWGrXKc0+mgzqPTSG8975bp/YPf+A7uzdDPe9L2g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 11:58:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-T1gQWGrXKc0+mgzqPTSG8975bp/YPf+A7uzdDPe9L2g="
+        }
+      ]
+    },
+    {
+      "Route": "images/brands/3f4f9533-3560-4345-9fc5-f9eb7c53e16e.jpg",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\brands\\3f4f9533-3560-4345-9fc5-f9eb7c53e16e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80940"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3FslpOgeUNcVgF+rdSaLeEWHZDTRwbOYqTYUoV5eGDk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 11:58:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3FslpOgeUNcVgF+rdSaLeEWHZDTRwbOYqTYUoV5eGDk="
+        }
+      ]
+    },
+    {
+      "Route": "images/brands/3f4f9533-3560-4345-9fc5-f9eb7c53e16e.s8ymxdnyuo.jpg",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\brands\\3f4f9533-3560-4345-9fc5-f9eb7c53e16e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80940"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3FslpOgeUNcVgF+rdSaLeEWHZDTRwbOYqTYUoV5eGDk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 11:58:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s8ymxdnyuo"
+        },
+        {
+          "Name": "label",
+          "Value": "images/brands/3f4f9533-3560-4345-9fc5-f9eb7c53e16e.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3FslpOgeUNcVgF+rdSaLeEWHZDTRwbOYqTYUoV5eGDk="
+        }
+      ]
+    },
+    {
+      "Route": "images/brands/445fb4c7-2ecd-460b-a589-c6b93f27b2c2.025maqpn01.jpg",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\brands\\445fb4c7-2ecd-460b-a589-c6b93f27b2c2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "64946"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GAWJbds2Ri98w0BS+IX/xD+4mjX+e6W4Ht4QTvZ+nLU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 11:58:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "025maqpn01"
+        },
+        {
+          "Name": "label",
+          "Value": "images/brands/445fb4c7-2ecd-460b-a589-c6b93f27b2c2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GAWJbds2Ri98w0BS+IX/xD+4mjX+e6W4Ht4QTvZ+nLU="
+        }
+      ]
+    },
+    {
+      "Route": "images/brands/445fb4c7-2ecd-460b-a589-c6b93f27b2c2.jpg",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\brands\\445fb4c7-2ecd-460b-a589-c6b93f27b2c2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "64946"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GAWJbds2Ri98w0BS+IX/xD+4mjX+e6W4Ht4QTvZ+nLU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 11:58:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GAWJbds2Ri98w0BS+IX/xD+4mjX+e6W4Ht4QTvZ+nLU="
+        }
+      ]
+    },
+    {
+      "Route": "images/brands/7d40b23e-0a63-46fd-8f9b-172291814d2c.png",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\brands\\7d40b23e-0a63-46fd-8f9b-172291814d2c.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55216"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"caGrnlFQSdKwSAyxvHG4BhfGJ2amZ2PGDUVqX4H/ysw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 11:04:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-caGrnlFQSdKwSAyxvHG4BhfGJ2amZ2PGDUVqX4H/ysw="
+        }
+      ]
+    },
+    {
+      "Route": "images/brands/7d40b23e-0a63-46fd-8f9b-172291814d2c.zvd1mnplfq.png",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\brands\\7d40b23e-0a63-46fd-8f9b-172291814d2c.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55216"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"caGrnlFQSdKwSAyxvHG4BhfGJ2amZ2PGDUVqX4H/ysw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 11:04:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zvd1mnplfq"
+        },
+        {
+          "Name": "label",
+          "Value": "images/brands/7d40b23e-0a63-46fd-8f9b-172291814d2c.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-caGrnlFQSdKwSAyxvHG4BhfGJ2amZ2PGDUVqX4H/ysw="
+        }
+      ]
+    },
+    {
+      "Route": "images/brands/7e1de2d8-a964-41ce-b787-6f3bf4685dd4.png",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\brands\\7e1de2d8-a964-41ce-b787-6f3bf4685dd4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115344"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xiGtnlx7xyq4P7mwJbweXwzo3ks9UTGdgc8JP+rwkfY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 11:04:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xiGtnlx7xyq4P7mwJbweXwzo3ks9UTGdgc8JP+rwkfY="
+        }
+      ]
+    },
+    {
+      "Route": "images/brands/7e1de2d8-a964-41ce-b787-6f3bf4685dd4.q0qmx89xux.png",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\brands\\7e1de2d8-a964-41ce-b787-6f3bf4685dd4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115344"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xiGtnlx7xyq4P7mwJbweXwzo3ks9UTGdgc8JP+rwkfY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 11:04:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q0qmx89xux"
+        },
+        {
+          "Name": "label",
+          "Value": "images/brands/7e1de2d8-a964-41ce-b787-6f3bf4685dd4.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xiGtnlx7xyq4P7mwJbweXwzo3ks9UTGdgc8JP+rwkfY="
+        }
+      ]
+    },
+    {
+      "Route": "images/brands/8f900826-82ae-47f6-a99f-1d9bda9dafaa.6ptgti8t7m.jpg",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\brands\\8f900826-82ae-47f6-a99f-1d9bda9dafaa.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32775"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"poAYTKQEIjOJw80q2S1+Fvjjf3K/4AbrwrBYhexMw3Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 31 Jul 2025 00:02:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6ptgti8t7m"
+        },
+        {
+          "Name": "label",
+          "Value": "images/brands/8f900826-82ae-47f6-a99f-1d9bda9dafaa.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-poAYTKQEIjOJw80q2S1+Fvjjf3K/4AbrwrBYhexMw3Q="
+        }
+      ]
+    },
+    {
+      "Route": "images/brands/8f900826-82ae-47f6-a99f-1d9bda9dafaa.jpg",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\brands\\8f900826-82ae-47f6-a99f-1d9bda9dafaa.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32775"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"poAYTKQEIjOJw80q2S1+Fvjjf3K/4AbrwrBYhexMw3Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 31 Jul 2025 00:02:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-poAYTKQEIjOJw80q2S1+Fvjjf3K/4AbrwrBYhexMw3Q="
+        }
+      ]
+    },
+    {
+      "Route": "images/brands/9b36669e-756c-44c4-a1ce-57c656e3adaf.eh0oeg031p.png",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\brands\\9b36669e-756c-44c4-a1ce-57c656e3adaf.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "88749"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jhnO9BChHaKISfmBSJSsFe/PKcFvU5RTqYpiHL2IdjI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 11:04:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eh0oeg031p"
+        },
+        {
+          "Name": "label",
+          "Value": "images/brands/9b36669e-756c-44c4-a1ce-57c656e3adaf.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jhnO9BChHaKISfmBSJSsFe/PKcFvU5RTqYpiHL2IdjI="
+        }
+      ]
+    },
+    {
+      "Route": "images/brands/9b36669e-756c-44c4-a1ce-57c656e3adaf.png",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\brands\\9b36669e-756c-44c4-a1ce-57c656e3adaf.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "88749"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jhnO9BChHaKISfmBSJSsFe/PKcFvU5RTqYpiHL2IdjI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 11:04:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jhnO9BChHaKISfmBSJSsFe/PKcFvU5RTqYpiHL2IdjI="
+        }
+      ]
+    },
+    {
+      "Route": "images/brands/a4028f33-4415-4b52-87e7-307089b5bb51.png",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\brands\\a4028f33-4415-4b52-87e7-307089b5bb51.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29034"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+KYwqpbzVcIRDYYPmJ7FqQz/PZ5vbYC/S9uxdj0rC/8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 11:04:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+KYwqpbzVcIRDYYPmJ7FqQz/PZ5vbYC/S9uxdj0rC/8="
+        }
+      ]
+    },
+    {
+      "Route": "images/brands/a4028f33-4415-4b52-87e7-307089b5bb51.sf4qa98m8p.png",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\brands\\a4028f33-4415-4b52-87e7-307089b5bb51.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29034"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+KYwqpbzVcIRDYYPmJ7FqQz/PZ5vbYC/S9uxdj0rC/8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 11:04:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sf4qa98m8p"
+        },
+        {
+          "Name": "label",
+          "Value": "images/brands/a4028f33-4415-4b52-87e7-307089b5bb51.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+KYwqpbzVcIRDYYPmJ7FqQz/PZ5vbYC/S9uxdj0rC/8="
+        }
+      ]
+    },
+    {
+      "Route": "images/brands/b4538d37-b762-4f49-be44-2609cafdf97a.jpg",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\brands\\b4538d37-b762-4f49-be44-2609cafdf97a.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "117117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"taNe55ZOLv04ZSedC8xYLsvkTccRQtFVqmhCQXhjnCw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 11:58:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-taNe55ZOLv04ZSedC8xYLsvkTccRQtFVqmhCQXhjnCw="
+        }
+      ]
+    },
+    {
+      "Route": "images/brands/b4538d37-b762-4f49-be44-2609cafdf97a.p761ahy2gn.jpg",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\brands\\b4538d37-b762-4f49-be44-2609cafdf97a.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "117117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"taNe55ZOLv04ZSedC8xYLsvkTccRQtFVqmhCQXhjnCw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 11:58:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p761ahy2gn"
+        },
+        {
+          "Name": "label",
+          "Value": "images/brands/b4538d37-b762-4f49-be44-2609cafdf97a.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-taNe55ZOLv04ZSedC8xYLsvkTccRQtFVqmhCQXhjnCw="
+        }
+      ]
+    },
+    {
+      "Route": "images/brands/dbc5f091-324a-420c-9b16-6a88dbd206a2.png",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\brands\\dbc5f091-324a-420c-9b16-6a88dbd206a2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34331"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"guOuj8YYrWe/wqBB6JWFuK4qvr2T9CjwIhSpi28iYz8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 11:04:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-guOuj8YYrWe/wqBB6JWFuK4qvr2T9CjwIhSpi28iYz8="
+        }
+      ]
+    },
+    {
+      "Route": "images/brands/dbc5f091-324a-420c-9b16-6a88dbd206a2.usnc9olvs0.png",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\brands\\dbc5f091-324a-420c-9b16-6a88dbd206a2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34331"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"guOuj8YYrWe/wqBB6JWFuK4qvr2T9CjwIhSpi28iYz8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 11:04:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "usnc9olvs0"
+        },
+        {
+          "Name": "label",
+          "Value": "images/brands/dbc5f091-324a-420c-9b16-6a88dbd206a2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-guOuj8YYrWe/wqBB6JWFuK4qvr2T9CjwIhSpi28iYz8="
+        }
+      ]
+    },
+    {
+      "Route": "images/brands/fe6a4082-0603-4c61-90dd-94d287d0f5c0.2gcyhpneka.jpg",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\brands\\fe6a4082-0603-4c61-90dd-94d287d0f5c0.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "111366"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fue7Rq7CbNezUaH+/0S6FQVDQgOrP6liLvpjYA4Tm/4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 11:58:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2gcyhpneka"
+        },
+        {
+          "Name": "label",
+          "Value": "images/brands/fe6a4082-0603-4c61-90dd-94d287d0f5c0.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fue7Rq7CbNezUaH+/0S6FQVDQgOrP6liLvpjYA4Tm/4="
+        }
+      ]
+    },
+    {
+      "Route": "images/brands/fe6a4082-0603-4c61-90dd-94d287d0f5c0.jpg",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\brands\\fe6a4082-0603-4c61-90dd-94d287d0f5c0.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "111366"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fue7Rq7CbNezUaH+/0S6FQVDQgOrP6liLvpjYA4Tm/4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 11:58:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fue7Rq7CbNezUaH+/0S6FQVDQgOrP6liLvpjYA4Tm/4="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/0b171b2a-cd30-44f8-a852-c2a9b38626ca.fpqafcwyvo.png",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\0b171b2a-cd30-44f8-a852-c2a9b38626ca.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "142134"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG+At74=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 10:27:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fpqafcwyvo"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/0b171b2a-cd30-44f8-a852-c2a9b38626ca.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG+At74="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/0b171b2a-cd30-44f8-a852-c2a9b38626ca.png",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\0b171b2a-cd30-44f8-a852-c2a9b38626ca.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "142134"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG+At74=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 10:27:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG+At74="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/1bba56cb-f2de-4dd0-a59b-d7669b332ab9.70u4cew1d5.png",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\1bba56cb-f2de-4dd0-a59b-d7669b332ab9.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7023"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5zQN6MyrlYtnIkw5Xxo1Xgzp4yfxrXqrUSsY4nRWdrI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 10:33:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "70u4cew1d5"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/1bba56cb-f2de-4dd0-a59b-d7669b332ab9.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5zQN6MyrlYtnIkw5Xxo1Xgzp4yfxrXqrUSsY4nRWdrI="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/1bba56cb-f2de-4dd0-a59b-d7669b332ab9.png",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\1bba56cb-f2de-4dd0-a59b-d7669b332ab9.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7023"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5zQN6MyrlYtnIkw5Xxo1Xgzp4yfxrXqrUSsY4nRWdrI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 10:33:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5zQN6MyrlYtnIkw5Xxo1Xgzp4yfxrXqrUSsY4nRWdrI="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/296df57d-0603-4319-a33d-b53e959d73d8.png",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\296df57d-0603-4319-a33d-b53e959d73d8.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25271"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Nz9sz5xi4EMxrnIhFJExioCwayFd5IuQt83hBlBWkZ0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 10:34:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Nz9sz5xi4EMxrnIhFJExioCwayFd5IuQt83hBlBWkZ0="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/296df57d-0603-4319-a33d-b53e959d73d8.v68vkkmhbu.png",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\296df57d-0603-4319-a33d-b53e959d73d8.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25271"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Nz9sz5xi4EMxrnIhFJExioCwayFd5IuQt83hBlBWkZ0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 10:34:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v68vkkmhbu"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/296df57d-0603-4319-a33d-b53e959d73d8.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Nz9sz5xi4EMxrnIhFJExioCwayFd5IuQt83hBlBWkZ0="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/2983330c-2d89-459d-af5c-076aaaf4cd90.jpg",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\2983330c-2d89-459d-af5c-076aaaf4cd90.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "117117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"taNe55ZOLv04ZSedC8xYLsvkTccRQtFVqmhCQXhjnCw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 11:57:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-taNe55ZOLv04ZSedC8xYLsvkTccRQtFVqmhCQXhjnCw="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/2983330c-2d89-459d-af5c-076aaaf4cd90.p761ahy2gn.jpg",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\2983330c-2d89-459d-af5c-076aaaf4cd90.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "117117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"taNe55ZOLv04ZSedC8xYLsvkTccRQtFVqmhCQXhjnCw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 11:57:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p761ahy2gn"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/2983330c-2d89-459d-af5c-076aaaf4cd90.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-taNe55ZOLv04ZSedC8xYLsvkTccRQtFVqmhCQXhjnCw="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/471de0c3-afb7-4322-9c71-cb9077f7ca25.2gcyhpneka.jpg",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\471de0c3-afb7-4322-9c71-cb9077f7ca25.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "111366"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fue7Rq7CbNezUaH+/0S6FQVDQgOrP6liLvpjYA4Tm/4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 11:57:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2gcyhpneka"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/471de0c3-afb7-4322-9c71-cb9077f7ca25.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fue7Rq7CbNezUaH+/0S6FQVDQgOrP6liLvpjYA4Tm/4="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/471de0c3-afb7-4322-9c71-cb9077f7ca25.jpg",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\471de0c3-afb7-4322-9c71-cb9077f7ca25.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "111366"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fue7Rq7CbNezUaH+/0S6FQVDQgOrP6liLvpjYA4Tm/4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 11:57:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fue7Rq7CbNezUaH+/0S6FQVDQgOrP6liLvpjYA4Tm/4="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/4be66866-b082-420a-bdd1-77d83cfffb83.6rwel47k57.jpg",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\4be66866-b082-420a-bdd1-77d83cfffb83.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "88242"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UtIGT7Dmi4BUcHskLpxrWIhPeVN86BjT6HRvfOiG1hU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 31 Jul 2025 00:02:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6rwel47k57"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/4be66866-b082-420a-bdd1-77d83cfffb83.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UtIGT7Dmi4BUcHskLpxrWIhPeVN86BjT6HRvfOiG1hU="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/4be66866-b082-420a-bdd1-77d83cfffb83.jpg",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\4be66866-b082-420a-bdd1-77d83cfffb83.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "88242"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UtIGT7Dmi4BUcHskLpxrWIhPeVN86BjT6HRvfOiG1hU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 31 Jul 2025 00:02:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UtIGT7Dmi4BUcHskLpxrWIhPeVN86BjT6HRvfOiG1hU="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/5e342f0b-43dd-4b00-9cc9-8c3eaf7dbd81.fpqafcwyvo.png",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\5e342f0b-43dd-4b00-9cc9-8c3eaf7dbd81.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "142134"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG+At74=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 10:27:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fpqafcwyvo"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/5e342f0b-43dd-4b00-9cc9-8c3eaf7dbd81.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG+At74="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/5e342f0b-43dd-4b00-9cc9-8c3eaf7dbd81.png",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\5e342f0b-43dd-4b00-9cc9-8c3eaf7dbd81.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "142134"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG+At74=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 10:27:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG+At74="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/62c66712-6db7-4262-ac98-9b4777b307ba.png",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\62c66712-6db7-4262-ac98-9b4777b307ba.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "139365"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/UGju8jhUpuYrmis9zWAwS72e9PklxAdgLcZwM2+DtI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 10:33:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/UGju8jhUpuYrmis9zWAwS72e9PklxAdgLcZwM2+DtI="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/62c66712-6db7-4262-ac98-9b4777b307ba.vljbeq1cjb.png",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\62c66712-6db7-4262-ac98-9b4777b307ba.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "139365"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/UGju8jhUpuYrmis9zWAwS72e9PklxAdgLcZwM2+DtI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 10:33:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vljbeq1cjb"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/62c66712-6db7-4262-ac98-9b4777b307ba.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/UGju8jhUpuYrmis9zWAwS72e9PklxAdgLcZwM2+DtI="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/79bd1f61-005a-49b5-b513-099e9e96c024.orgjub5iwg.png",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\79bd1f61-005a-49b5-b513-099e9e96c024.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23926"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XGpgIPr7t+OTc+WBcg3c8mcdWgSgwuZ/QcMn2WoUb8k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 10:28:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "orgjub5iwg"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/79bd1f61-005a-49b5-b513-099e9e96c024.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XGpgIPr7t+OTc+WBcg3c8mcdWgSgwuZ/QcMn2WoUb8k="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/79bd1f61-005a-49b5-b513-099e9e96c024.png",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\79bd1f61-005a-49b5-b513-099e9e96c024.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23926"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XGpgIPr7t+OTc+WBcg3c8mcdWgSgwuZ/QcMn2WoUb8k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 10:28:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XGpgIPr7t+OTc+WBcg3c8mcdWgSgwuZ/QcMn2WoUb8k="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/7dddf9f8-e566-4271-8f09-f9d93d331e9b.49ii7anw9q.png",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\7dddf9f8-e566-4271-8f09-f9d93d331e9b.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "303435"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GJQx4Gsi7RjFff2RKFe+YwXF4JR1eLLnXlbKn7q9Mlk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 10:33:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "49ii7anw9q"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/7dddf9f8-e566-4271-8f09-f9d93d331e9b.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GJQx4Gsi7RjFff2RKFe+YwXF4JR1eLLnXlbKn7q9Mlk="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/7dddf9f8-e566-4271-8f09-f9d93d331e9b.png",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\7dddf9f8-e566-4271-8f09-f9d93d331e9b.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "303435"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GJQx4Gsi7RjFff2RKFe+YwXF4JR1eLLnXlbKn7q9Mlk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 10:33:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GJQx4Gsi7RjFff2RKFe+YwXF4JR1eLLnXlbKn7q9Mlk="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/8a25f4bb-5fea-4b21-b177-c931faab2334.fpqafcwyvo.png",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\8a25f4bb-5fea-4b21-b177-c931faab2334.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "142134"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG+At74=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 10:27:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fpqafcwyvo"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/8a25f4bb-5fea-4b21-b177-c931faab2334.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG+At74="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/8a25f4bb-5fea-4b21-b177-c931faab2334.png",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\8a25f4bb-5fea-4b21-b177-c931faab2334.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "142134"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG+At74=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 10:27:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG+At74="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/a065dc9e-431b-4d71-ab0d-21e42c101011.fpqafcwyvo.png",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\a065dc9e-431b-4d71-ab0d-21e42c101011.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "142134"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG+At74=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 10:27:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fpqafcwyvo"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/a065dc9e-431b-4d71-ab0d-21e42c101011.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG+At74="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/a065dc9e-431b-4d71-ab0d-21e42c101011.png",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\a065dc9e-431b-4d71-ab0d-21e42c101011.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "142134"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG+At74=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 10:27:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG+At74="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/a6b30b21-549e-4fb4-9b9c-a682cb643f8c.fpqafcwyvo.png",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\a6b30b21-549e-4fb4-9b9c-a682cb643f8c.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "142134"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG+At74=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 10:27:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fpqafcwyvo"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/a6b30b21-549e-4fb4-9b9c-a682cb643f8c.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG+At74="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/a6b30b21-549e-4fb4-9b9c-a682cb643f8c.png",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\a6b30b21-549e-4fb4-9b9c-a682cb643f8c.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "142134"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG+At74=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 10:27:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG+At74="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/ad0d941f-7bcc-4c6f-a9ce-47a44da8d13e.aravvctaiy.png",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\ad0d941f-7bcc-4c6f-a9ce-47a44da8d13e.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "129056"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yjjiCmy/egzkMwvRxnAo307N/99riivPv1TbdRpjoyk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 10:01:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aravvctaiy"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/ad0d941f-7bcc-4c6f-a9ce-47a44da8d13e.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yjjiCmy/egzkMwvRxnAo307N/99riivPv1TbdRpjoyk="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/ad0d941f-7bcc-4c6f-a9ce-47a44da8d13e.png",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\ad0d941f-7bcc-4c6f-a9ce-47a44da8d13e.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "129056"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yjjiCmy/egzkMwvRxnAo307N/99riivPv1TbdRpjoyk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 10:01:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yjjiCmy/egzkMwvRxnAo307N/99riivPv1TbdRpjoyk="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/b25ca46e-3389-4d58-abd5-fe029378d33b.49g4mf0c46.jpg",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\b25ca46e-3389-4d58-abd5-fe029378d33b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SJ0d6EIblwxxfwB8gMqXN9McyfmUkz+N0aanDbc+Xa4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 11:57:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "49g4mf0c46"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/b25ca46e-3389-4d58-abd5-fe029378d33b.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SJ0d6EIblwxxfwB8gMqXN9McyfmUkz+N0aanDbc+Xa4="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/b25ca46e-3389-4d58-abd5-fe029378d33b.jpg",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\b25ca46e-3389-4d58-abd5-fe029378d33b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SJ0d6EIblwxxfwB8gMqXN9McyfmUkz+N0aanDbc+Xa4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 11:57:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SJ0d6EIblwxxfwB8gMqXN9McyfmUkz+N0aanDbc+Xa4="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/d48cc33a-89e1-4a0a-98eb-de34436c3586.fpqafcwyvo.png",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\d48cc33a-89e1-4a0a-98eb-de34436c3586.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "142134"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG+At74=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 10:27:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fpqafcwyvo"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/d48cc33a-89e1-4a0a-98eb-de34436c3586.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG+At74="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/d48cc33a-89e1-4a0a-98eb-de34436c3586.png",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\d48cc33a-89e1-4a0a-98eb-de34436c3586.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "142134"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG+At74=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 10:27:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG+At74="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/d7ea4af4-5125-49a4-bdde-b92285e1fc52.fpqafcwyvo.png",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\d7ea4af4-5125-49a4-bdde-b92285e1fc52.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "142134"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG+At74=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 10:27:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fpqafcwyvo"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/d7ea4af4-5125-49a4-bdde-b92285e1fc52.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG+At74="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/d7ea4af4-5125-49a4-bdde-b92285e1fc52.png",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\d7ea4af4-5125-49a4-bdde-b92285e1fc52.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "142134"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG+At74=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 10:27:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG+At74="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/f8432280-7f08-4df8-8db8-47eb485aa843.jpg",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\f8432280-7f08-4df8-8db8-47eb485aa843.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80940"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3FslpOgeUNcVgF+rdSaLeEWHZDTRwbOYqTYUoV5eGDk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 11:57:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3FslpOgeUNcVgF+rdSaLeEWHZDTRwbOYqTYUoV5eGDk="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/f8432280-7f08-4df8-8db8-47eb485aa843.s8ymxdnyuo.jpg",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\f8432280-7f08-4df8-8db8-47eb485aa843.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80940"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3FslpOgeUNcVgF+rdSaLeEWHZDTRwbOYqTYUoV5eGDk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 11:57:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s8ymxdnyuo"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/f8432280-7f08-4df8-8db8-47eb485aa843.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3FslpOgeUNcVgF+rdSaLeEWHZDTRwbOYqTYUoV5eGDk="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/fc3d08ff-ed8c-4948-afca-024a1e1f4f6b.fpqafcwyvo.png",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\fc3d08ff-ed8c-4948-afca-024a1e1f4f6b.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "142134"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG+At74=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 10:27:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fpqafcwyvo"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/fc3d08ff-ed8c-4948-afca-024a1e1f4f6b.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG+At74="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/fc3d08ff-ed8c-4948-afca-024a1e1f4f6b.png",
+      "AssetFile": "C:\\Users\\SHARKS\\Downloads\\Perfumes upgraded\\Perfumes\\Perfumes\\Perfumes.API\\wwwroot\\images\\products\\fc3d08ff-ed8c-4948-afca-024a1e1f4f6b.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "142134"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG+At74=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 10:27:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG+At74="
+        }
+      ]
+    }
+  ]
+}

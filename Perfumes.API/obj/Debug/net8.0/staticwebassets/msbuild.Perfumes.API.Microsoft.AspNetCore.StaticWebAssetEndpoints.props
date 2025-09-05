@@ -1,0 +1,364 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/brands/140581fa-664c-4e11-a340-32fbeea86bb4.3vzzs7q0vm.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\brands\140581fa-664c-4e11-a340-32fbeea86bb4.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3vzzs7q0vm"},{"Name":"integrity","Value":"sha256-T1gQWGrXKc0\u002BmgzqPTSG8975bp/YPf\u002BA7uzdDPe9L2g="},{"Name":"label","Value":"_content/Perfumes.API/images/brands/140581fa-664c-4e11-a340-32fbeea86bb4.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"44721"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022T1gQWGrXKc0\u002BmgzqPTSG8975bp/YPf\u002BA7uzdDPe9L2g=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 11:58:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/brands/140581fa-664c-4e11-a340-32fbeea86bb4.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\brands\140581fa-664c-4e11-a340-32fbeea86bb4.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-T1gQWGrXKc0\u002BmgzqPTSG8975bp/YPf\u002BA7uzdDPe9L2g="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"44721"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022T1gQWGrXKc0\u002BmgzqPTSG8975bp/YPf\u002BA7uzdDPe9L2g=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 11:58:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/brands/3f4f9533-3560-4345-9fc5-f9eb7c53e16e.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\brands\3f4f9533-3560-4345-9fc5-f9eb7c53e16e.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-3FslpOgeUNcVgF\u002BrdSaLeEWHZDTRwbOYqTYUoV5eGDk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"80940"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00223FslpOgeUNcVgF\u002BrdSaLeEWHZDTRwbOYqTYUoV5eGDk=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 11:58:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/brands/3f4f9533-3560-4345-9fc5-f9eb7c53e16e.s8ymxdnyuo.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\brands\3f4f9533-3560-4345-9fc5-f9eb7c53e16e.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"s8ymxdnyuo"},{"Name":"integrity","Value":"sha256-3FslpOgeUNcVgF\u002BrdSaLeEWHZDTRwbOYqTYUoV5eGDk="},{"Name":"label","Value":"_content/Perfumes.API/images/brands/3f4f9533-3560-4345-9fc5-f9eb7c53e16e.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"80940"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00223FslpOgeUNcVgF\u002BrdSaLeEWHZDTRwbOYqTYUoV5eGDk=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 11:58:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/brands/445fb4c7-2ecd-460b-a589-c6b93f27b2c2.025maqpn01.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\brands\445fb4c7-2ecd-460b-a589-c6b93f27b2c2.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"025maqpn01"},{"Name":"integrity","Value":"sha256-GAWJbds2Ri98w0BS\u002BIX/xD\u002B4mjX\u002Be6W4Ht4QTvZ\u002BnLU="},{"Name":"label","Value":"_content/Perfumes.API/images/brands/445fb4c7-2ecd-460b-a589-c6b93f27b2c2.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"64946"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022GAWJbds2Ri98w0BS\u002BIX/xD\u002B4mjX\u002Be6W4Ht4QTvZ\u002BnLU=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 11:58:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/brands/445fb4c7-2ecd-460b-a589-c6b93f27b2c2.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\brands\445fb4c7-2ecd-460b-a589-c6b93f27b2c2.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-GAWJbds2Ri98w0BS\u002BIX/xD\u002B4mjX\u002Be6W4Ht4QTvZ\u002BnLU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"64946"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022GAWJbds2Ri98w0BS\u002BIX/xD\u002B4mjX\u002Be6W4Ht4QTvZ\u002BnLU=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 11:58:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/brands/7d40b23e-0a63-46fd-8f9b-172291814d2c.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\brands\7d40b23e-0a63-46fd-8f9b-172291814d2c.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-caGrnlFQSdKwSAyxvHG4BhfGJ2amZ2PGDUVqX4H/ysw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"55216"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022caGrnlFQSdKwSAyxvHG4BhfGJ2amZ2PGDUVqX4H/ysw=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 11:04:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/brands/7d40b23e-0a63-46fd-8f9b-172291814d2c.zvd1mnplfq.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\brands\7d40b23e-0a63-46fd-8f9b-172291814d2c.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zvd1mnplfq"},{"Name":"integrity","Value":"sha256-caGrnlFQSdKwSAyxvHG4BhfGJ2amZ2PGDUVqX4H/ysw="},{"Name":"label","Value":"_content/Perfumes.API/images/brands/7d40b23e-0a63-46fd-8f9b-172291814d2c.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"55216"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022caGrnlFQSdKwSAyxvHG4BhfGJ2amZ2PGDUVqX4H/ysw=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 11:04:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/brands/7e1de2d8-a964-41ce-b787-6f3bf4685dd4.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\brands\7e1de2d8-a964-41ce-b787-6f3bf4685dd4.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-xiGtnlx7xyq4P7mwJbweXwzo3ks9UTGdgc8JP\u002BrwkfY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"115344"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022xiGtnlx7xyq4P7mwJbweXwzo3ks9UTGdgc8JP\u002BrwkfY=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 11:04:41 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/brands/7e1de2d8-a964-41ce-b787-6f3bf4685dd4.q0qmx89xux.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\brands\7e1de2d8-a964-41ce-b787-6f3bf4685dd4.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"q0qmx89xux"},{"Name":"integrity","Value":"sha256-xiGtnlx7xyq4P7mwJbweXwzo3ks9UTGdgc8JP\u002BrwkfY="},{"Name":"label","Value":"_content/Perfumes.API/images/brands/7e1de2d8-a964-41ce-b787-6f3bf4685dd4.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"115344"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022xiGtnlx7xyq4P7mwJbweXwzo3ks9UTGdgc8JP\u002BrwkfY=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 11:04:41 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/brands/8f900826-82ae-47f6-a99f-1d9bda9dafaa.6ptgti8t7m.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\brands\8f900826-82ae-47f6-a99f-1d9bda9dafaa.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6ptgti8t7m"},{"Name":"integrity","Value":"sha256-poAYTKQEIjOJw80q2S1\u002BFvjjf3K/4AbrwrBYhexMw3Q="},{"Name":"label","Value":"_content/Perfumes.API/images/brands/8f900826-82ae-47f6-a99f-1d9bda9dafaa.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"32775"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022poAYTKQEIjOJw80q2S1\u002BFvjjf3K/4AbrwrBYhexMw3Q=\u0022"},{"Name":"Last-Modified","Value":"Thu, 31 Jul 2025 00:02:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/brands/8f900826-82ae-47f6-a99f-1d9bda9dafaa.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\brands\8f900826-82ae-47f6-a99f-1d9bda9dafaa.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-poAYTKQEIjOJw80q2S1\u002BFvjjf3K/4AbrwrBYhexMw3Q="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"32775"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022poAYTKQEIjOJw80q2S1\u002BFvjjf3K/4AbrwrBYhexMw3Q=\u0022"},{"Name":"Last-Modified","Value":"Thu, 31 Jul 2025 00:02:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/brands/9b36669e-756c-44c4-a1ce-57c656e3adaf.eh0oeg031p.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\brands\9b36669e-756c-44c4-a1ce-57c656e3adaf.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"eh0oeg031p"},{"Name":"integrity","Value":"sha256-jhnO9BChHaKISfmBSJSsFe/PKcFvU5RTqYpiHL2IdjI="},{"Name":"label","Value":"_content/Perfumes.API/images/brands/9b36669e-756c-44c4-a1ce-57c656e3adaf.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"88749"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022jhnO9BChHaKISfmBSJSsFe/PKcFvU5RTqYpiHL2IdjI=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 11:04:34 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/brands/9b36669e-756c-44c4-a1ce-57c656e3adaf.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\brands\9b36669e-756c-44c4-a1ce-57c656e3adaf.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-jhnO9BChHaKISfmBSJSsFe/PKcFvU5RTqYpiHL2IdjI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"88749"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022jhnO9BChHaKISfmBSJSsFe/PKcFvU5RTqYpiHL2IdjI=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 11:04:34 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/brands/a4028f33-4415-4b52-87e7-307089b5bb51.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\brands\a4028f33-4415-4b52-87e7-307089b5bb51.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-\u002BKYwqpbzVcIRDYYPmJ7FqQz/PZ5vbYC/S9uxdj0rC/8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"29034"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022\u002BKYwqpbzVcIRDYYPmJ7FqQz/PZ5vbYC/S9uxdj0rC/8=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 11:04:28 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/brands/a4028f33-4415-4b52-87e7-307089b5bb51.sf4qa98m8p.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\brands\a4028f33-4415-4b52-87e7-307089b5bb51.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"sf4qa98m8p"},{"Name":"integrity","Value":"sha256-\u002BKYwqpbzVcIRDYYPmJ7FqQz/PZ5vbYC/S9uxdj0rC/8="},{"Name":"label","Value":"_content/Perfumes.API/images/brands/a4028f33-4415-4b52-87e7-307089b5bb51.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"29034"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022\u002BKYwqpbzVcIRDYYPmJ7FqQz/PZ5vbYC/S9uxdj0rC/8=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 11:04:28 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/brands/b4538d37-b762-4f49-be44-2609cafdf97a.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\brands\b4538d37-b762-4f49-be44-2609cafdf97a.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-taNe55ZOLv04ZSedC8xYLsvkTccRQtFVqmhCQXhjnCw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"117117"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022taNe55ZOLv04ZSedC8xYLsvkTccRQtFVqmhCQXhjnCw=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 11:58:27 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/brands/b4538d37-b762-4f49-be44-2609cafdf97a.p761ahy2gn.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\brands\b4538d37-b762-4f49-be44-2609cafdf97a.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"p761ahy2gn"},{"Name":"integrity","Value":"sha256-taNe55ZOLv04ZSedC8xYLsvkTccRQtFVqmhCQXhjnCw="},{"Name":"label","Value":"_content/Perfumes.API/images/brands/b4538d37-b762-4f49-be44-2609cafdf97a.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"117117"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022taNe55ZOLv04ZSedC8xYLsvkTccRQtFVqmhCQXhjnCw=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 11:58:27 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/brands/dbc5f091-324a-420c-9b16-6a88dbd206a2.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\brands\dbc5f091-324a-420c-9b16-6a88dbd206a2.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-guOuj8YYrWe/wqBB6JWFuK4qvr2T9CjwIhSpi28iYz8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"34331"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022guOuj8YYrWe/wqBB6JWFuK4qvr2T9CjwIhSpi28iYz8=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 11:04:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/brands/dbc5f091-324a-420c-9b16-6a88dbd206a2.usnc9olvs0.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\brands\dbc5f091-324a-420c-9b16-6a88dbd206a2.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"usnc9olvs0"},{"Name":"integrity","Value":"sha256-guOuj8YYrWe/wqBB6JWFuK4qvr2T9CjwIhSpi28iYz8="},{"Name":"label","Value":"_content/Perfumes.API/images/brands/dbc5f091-324a-420c-9b16-6a88dbd206a2.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"34331"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022guOuj8YYrWe/wqBB6JWFuK4qvr2T9CjwIhSpi28iYz8=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 11:04:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/brands/fe6a4082-0603-4c61-90dd-94d287d0f5c0.2gcyhpneka.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\brands\fe6a4082-0603-4c61-90dd-94d287d0f5c0.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2gcyhpneka"},{"Name":"integrity","Value":"sha256-fue7Rq7CbNezUaH\u002B/0S6FQVDQgOrP6liLvpjYA4Tm/4="},{"Name":"label","Value":"_content/Perfumes.API/images/brands/fe6a4082-0603-4c61-90dd-94d287d0f5c0.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"111366"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022fue7Rq7CbNezUaH\u002B/0S6FQVDQgOrP6liLvpjYA4Tm/4=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 11:58:34 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/brands/fe6a4082-0603-4c61-90dd-94d287d0f5c0.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\brands\fe6a4082-0603-4c61-90dd-94d287d0f5c0.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-fue7Rq7CbNezUaH\u002B/0S6FQVDQgOrP6liLvpjYA4Tm/4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"111366"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022fue7Rq7CbNezUaH\u002B/0S6FQVDQgOrP6liLvpjYA4Tm/4=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 11:58:34 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/products/0b171b2a-cd30-44f8-a852-c2a9b38626ca.fpqafcwyvo.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\0b171b2a-cd30-44f8-a852-c2a9b38626ca.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fpqafcwyvo"},{"Name":"integrity","Value":"sha256-TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG\u002BAt74="},{"Name":"label","Value":"_content/Perfumes.API/images/products/0b171b2a-cd30-44f8-a852-c2a9b38626ca.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"142134"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG\u002BAt74=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 10:27:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/products/0b171b2a-cd30-44f8-a852-c2a9b38626ca.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\0b171b2a-cd30-44f8-a852-c2a9b38626ca.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG\u002BAt74="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"142134"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG\u002BAt74=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 10:27:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/products/1bba56cb-f2de-4dd0-a59b-d7669b332ab9.70u4cew1d5.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\1bba56cb-f2de-4dd0-a59b-d7669b332ab9.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"70u4cew1d5"},{"Name":"integrity","Value":"sha256-5zQN6MyrlYtnIkw5Xxo1Xgzp4yfxrXqrUSsY4nRWdrI="},{"Name":"label","Value":"_content/Perfumes.API/images/products/1bba56cb-f2de-4dd0-a59b-d7669b332ab9.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7023"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00225zQN6MyrlYtnIkw5Xxo1Xgzp4yfxrXqrUSsY4nRWdrI=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 10:33:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/products/1bba56cb-f2de-4dd0-a59b-d7669b332ab9.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\1bba56cb-f2de-4dd0-a59b-d7669b332ab9.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-5zQN6MyrlYtnIkw5Xxo1Xgzp4yfxrXqrUSsY4nRWdrI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"7023"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00225zQN6MyrlYtnIkw5Xxo1Xgzp4yfxrXqrUSsY4nRWdrI=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 10:33:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/products/296df57d-0603-4319-a33d-b53e959d73d8.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\296df57d-0603-4319-a33d-b53e959d73d8.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Nz9sz5xi4EMxrnIhFJExioCwayFd5IuQt83hBlBWkZ0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"25271"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Nz9sz5xi4EMxrnIhFJExioCwayFd5IuQt83hBlBWkZ0=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 10:34:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/products/296df57d-0603-4319-a33d-b53e959d73d8.v68vkkmhbu.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\296df57d-0603-4319-a33d-b53e959d73d8.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"v68vkkmhbu"},{"Name":"integrity","Value":"sha256-Nz9sz5xi4EMxrnIhFJExioCwayFd5IuQt83hBlBWkZ0="},{"Name":"label","Value":"_content/Perfumes.API/images/products/296df57d-0603-4319-a33d-b53e959d73d8.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"25271"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Nz9sz5xi4EMxrnIhFJExioCwayFd5IuQt83hBlBWkZ0=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 10:34:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/products/2983330c-2d89-459d-af5c-076aaaf4cd90.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\2983330c-2d89-459d-af5c-076aaaf4cd90.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-taNe55ZOLv04ZSedC8xYLsvkTccRQtFVqmhCQXhjnCw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"117117"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022taNe55ZOLv04ZSedC8xYLsvkTccRQtFVqmhCQXhjnCw=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 11:57:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/products/2983330c-2d89-459d-af5c-076aaaf4cd90.p761ahy2gn.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\2983330c-2d89-459d-af5c-076aaaf4cd90.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"p761ahy2gn"},{"Name":"integrity","Value":"sha256-taNe55ZOLv04ZSedC8xYLsvkTccRQtFVqmhCQXhjnCw="},{"Name":"label","Value":"_content/Perfumes.API/images/products/2983330c-2d89-459d-af5c-076aaaf4cd90.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"117117"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022taNe55ZOLv04ZSedC8xYLsvkTccRQtFVqmhCQXhjnCw=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 11:57:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/products/471de0c3-afb7-4322-9c71-cb9077f7ca25.2gcyhpneka.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\471de0c3-afb7-4322-9c71-cb9077f7ca25.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2gcyhpneka"},{"Name":"integrity","Value":"sha256-fue7Rq7CbNezUaH\u002B/0S6FQVDQgOrP6liLvpjYA4Tm/4="},{"Name":"label","Value":"_content/Perfumes.API/images/products/471de0c3-afb7-4322-9c71-cb9077f7ca25.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"111366"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022fue7Rq7CbNezUaH\u002B/0S6FQVDQgOrP6liLvpjYA4Tm/4=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 11:57:26 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/products/471de0c3-afb7-4322-9c71-cb9077f7ca25.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\471de0c3-afb7-4322-9c71-cb9077f7ca25.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-fue7Rq7CbNezUaH\u002B/0S6FQVDQgOrP6liLvpjYA4Tm/4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"111366"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022fue7Rq7CbNezUaH\u002B/0S6FQVDQgOrP6liLvpjYA4Tm/4=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 11:57:26 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/products/4be66866-b082-420a-bdd1-77d83cfffb83.6rwel47k57.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\4be66866-b082-420a-bdd1-77d83cfffb83.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6rwel47k57"},{"Name":"integrity","Value":"sha256-UtIGT7Dmi4BUcHskLpxrWIhPeVN86BjT6HRvfOiG1hU="},{"Name":"label","Value":"_content/Perfumes.API/images/products/4be66866-b082-420a-bdd1-77d83cfffb83.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"88242"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022UtIGT7Dmi4BUcHskLpxrWIhPeVN86BjT6HRvfOiG1hU=\u0022"},{"Name":"Last-Modified","Value":"Thu, 31 Jul 2025 00:02:14 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/products/4be66866-b082-420a-bdd1-77d83cfffb83.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\4be66866-b082-420a-bdd1-77d83cfffb83.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-UtIGT7Dmi4BUcHskLpxrWIhPeVN86BjT6HRvfOiG1hU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"88242"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022UtIGT7Dmi4BUcHskLpxrWIhPeVN86BjT6HRvfOiG1hU=\u0022"},{"Name":"Last-Modified","Value":"Thu, 31 Jul 2025 00:02:14 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/products/5e342f0b-43dd-4b00-9cc9-8c3eaf7dbd81.fpqafcwyvo.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\5e342f0b-43dd-4b00-9cc9-8c3eaf7dbd81.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fpqafcwyvo"},{"Name":"integrity","Value":"sha256-TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG\u002BAt74="},{"Name":"label","Value":"_content/Perfumes.API/images/products/5e342f0b-43dd-4b00-9cc9-8c3eaf7dbd81.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"142134"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG\u002BAt74=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 10:27:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/products/5e342f0b-43dd-4b00-9cc9-8c3eaf7dbd81.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\5e342f0b-43dd-4b00-9cc9-8c3eaf7dbd81.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG\u002BAt74="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"142134"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG\u002BAt74=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 10:27:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/products/62c66712-6db7-4262-ac98-9b4777b307ba.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\62c66712-6db7-4262-ac98-9b4777b307ba.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-/UGju8jhUpuYrmis9zWAwS72e9PklxAdgLcZwM2\u002BDtI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"139365"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022/UGju8jhUpuYrmis9zWAwS72e9PklxAdgLcZwM2\u002BDtI=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 10:33:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/products/62c66712-6db7-4262-ac98-9b4777b307ba.vljbeq1cjb.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\62c66712-6db7-4262-ac98-9b4777b307ba.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vljbeq1cjb"},{"Name":"integrity","Value":"sha256-/UGju8jhUpuYrmis9zWAwS72e9PklxAdgLcZwM2\u002BDtI="},{"Name":"label","Value":"_content/Perfumes.API/images/products/62c66712-6db7-4262-ac98-9b4777b307ba.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"139365"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022/UGju8jhUpuYrmis9zWAwS72e9PklxAdgLcZwM2\u002BDtI=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 10:33:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/products/79bd1f61-005a-49b5-b513-099e9e96c024.orgjub5iwg.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\79bd1f61-005a-49b5-b513-099e9e96c024.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"orgjub5iwg"},{"Name":"integrity","Value":"sha256-XGpgIPr7t\u002BOTc\u002BWBcg3c8mcdWgSgwuZ/QcMn2WoUb8k="},{"Name":"label","Value":"_content/Perfumes.API/images/products/79bd1f61-005a-49b5-b513-099e9e96c024.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"23926"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022XGpgIPr7t\u002BOTc\u002BWBcg3c8mcdWgSgwuZ/QcMn2WoUb8k=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 10:28:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/products/79bd1f61-005a-49b5-b513-099e9e96c024.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\79bd1f61-005a-49b5-b513-099e9e96c024.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-XGpgIPr7t\u002BOTc\u002BWBcg3c8mcdWgSgwuZ/QcMn2WoUb8k="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"23926"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022XGpgIPr7t\u002BOTc\u002BWBcg3c8mcdWgSgwuZ/QcMn2WoUb8k=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 10:28:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/products/7dddf9f8-e566-4271-8f09-f9d93d331e9b.49ii7anw9q.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\7dddf9f8-e566-4271-8f09-f9d93d331e9b.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"49ii7anw9q"},{"Name":"integrity","Value":"sha256-GJQx4Gsi7RjFff2RKFe\u002BYwXF4JR1eLLnXlbKn7q9Mlk="},{"Name":"label","Value":"_content/Perfumes.API/images/products/7dddf9f8-e566-4271-8f09-f9d93d331e9b.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"303435"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022GJQx4Gsi7RjFff2RKFe\u002BYwXF4JR1eLLnXlbKn7q9Mlk=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 10:33:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/products/7dddf9f8-e566-4271-8f09-f9d93d331e9b.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\7dddf9f8-e566-4271-8f09-f9d93d331e9b.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-GJQx4Gsi7RjFff2RKFe\u002BYwXF4JR1eLLnXlbKn7q9Mlk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"303435"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022GJQx4Gsi7RjFff2RKFe\u002BYwXF4JR1eLLnXlbKn7q9Mlk=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 10:33:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/products/8a25f4bb-5fea-4b21-b177-c931faab2334.fpqafcwyvo.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\8a25f4bb-5fea-4b21-b177-c931faab2334.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fpqafcwyvo"},{"Name":"integrity","Value":"sha256-TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG\u002BAt74="},{"Name":"label","Value":"_content/Perfumes.API/images/products/8a25f4bb-5fea-4b21-b177-c931faab2334.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"142134"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG\u002BAt74=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 10:27:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/products/8a25f4bb-5fea-4b21-b177-c931faab2334.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\8a25f4bb-5fea-4b21-b177-c931faab2334.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG\u002BAt74="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"142134"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG\u002BAt74=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 10:27:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/products/a065dc9e-431b-4d71-ab0d-21e42c101011.fpqafcwyvo.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\a065dc9e-431b-4d71-ab0d-21e42c101011.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fpqafcwyvo"},{"Name":"integrity","Value":"sha256-TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG\u002BAt74="},{"Name":"label","Value":"_content/Perfumes.API/images/products/a065dc9e-431b-4d71-ab0d-21e42c101011.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"142134"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG\u002BAt74=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 10:27:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/products/a065dc9e-431b-4d71-ab0d-21e42c101011.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\a065dc9e-431b-4d71-ab0d-21e42c101011.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG\u002BAt74="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"142134"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG\u002BAt74=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 10:27:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/products/a6b30b21-549e-4fb4-9b9c-a682cb643f8c.fpqafcwyvo.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\a6b30b21-549e-4fb4-9b9c-a682cb643f8c.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fpqafcwyvo"},{"Name":"integrity","Value":"sha256-TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG\u002BAt74="},{"Name":"label","Value":"_content/Perfumes.API/images/products/a6b30b21-549e-4fb4-9b9c-a682cb643f8c.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"142134"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG\u002BAt74=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 10:27:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/products/a6b30b21-549e-4fb4-9b9c-a682cb643f8c.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\a6b30b21-549e-4fb4-9b9c-a682cb643f8c.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG\u002BAt74="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"142134"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG\u002BAt74=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 10:27:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/products/ad0d941f-7bcc-4c6f-a9ce-47a44da8d13e.aravvctaiy.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\ad0d941f-7bcc-4c6f-a9ce-47a44da8d13e.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"aravvctaiy"},{"Name":"integrity","Value":"sha256-yjjiCmy/egzkMwvRxnAo307N/99riivPv1TbdRpjoyk="},{"Name":"label","Value":"_content/Perfumes.API/images/products/ad0d941f-7bcc-4c6f-a9ce-47a44da8d13e.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"129056"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022yjjiCmy/egzkMwvRxnAo307N/99riivPv1TbdRpjoyk=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 10:01:02 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/products/ad0d941f-7bcc-4c6f-a9ce-47a44da8d13e.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\ad0d941f-7bcc-4c6f-a9ce-47a44da8d13e.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-yjjiCmy/egzkMwvRxnAo307N/99riivPv1TbdRpjoyk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"129056"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022yjjiCmy/egzkMwvRxnAo307N/99riivPv1TbdRpjoyk=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 10:01:02 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/products/b25ca46e-3389-4d58-abd5-fe029378d33b.49g4mf0c46.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\b25ca46e-3389-4d58-abd5-fe029378d33b.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"49g4mf0c46"},{"Name":"integrity","Value":"sha256-SJ0d6EIblwxxfwB8gMqXN9McyfmUkz\u002BN0aanDbc\u002BXa4="},{"Name":"label","Value":"_content/Perfumes.API/images/products/b25ca46e-3389-4d58-abd5-fe029378d33b.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"86533"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022SJ0d6EIblwxxfwB8gMqXN9McyfmUkz\u002BN0aanDbc\u002BXa4=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 11:57:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/products/b25ca46e-3389-4d58-abd5-fe029378d33b.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\b25ca46e-3389-4d58-abd5-fe029378d33b.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-SJ0d6EIblwxxfwB8gMqXN9McyfmUkz\u002BN0aanDbc\u002BXa4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"86533"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022SJ0d6EIblwxxfwB8gMqXN9McyfmUkz\u002BN0aanDbc\u002BXa4=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 11:57:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/products/d48cc33a-89e1-4a0a-98eb-de34436c3586.fpqafcwyvo.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\d48cc33a-89e1-4a0a-98eb-de34436c3586.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fpqafcwyvo"},{"Name":"integrity","Value":"sha256-TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG\u002BAt74="},{"Name":"label","Value":"_content/Perfumes.API/images/products/d48cc33a-89e1-4a0a-98eb-de34436c3586.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"142134"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG\u002BAt74=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 10:27:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/products/d48cc33a-89e1-4a0a-98eb-de34436c3586.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\d48cc33a-89e1-4a0a-98eb-de34436c3586.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG\u002BAt74="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"142134"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG\u002BAt74=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 10:27:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/products/d7ea4af4-5125-49a4-bdde-b92285e1fc52.fpqafcwyvo.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\d7ea4af4-5125-49a4-bdde-b92285e1fc52.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fpqafcwyvo"},{"Name":"integrity","Value":"sha256-TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG\u002BAt74="},{"Name":"label","Value":"_content/Perfumes.API/images/products/d7ea4af4-5125-49a4-bdde-b92285e1fc52.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"142134"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG\u002BAt74=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 10:27:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/products/d7ea4af4-5125-49a4-bdde-b92285e1fc52.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\d7ea4af4-5125-49a4-bdde-b92285e1fc52.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG\u002BAt74="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"142134"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG\u002BAt74=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 10:27:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/products/f8432280-7f08-4df8-8db8-47eb485aa843.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\f8432280-7f08-4df8-8db8-47eb485aa843.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-3FslpOgeUNcVgF\u002BrdSaLeEWHZDTRwbOYqTYUoV5eGDk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"80940"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00223FslpOgeUNcVgF\u002BrdSaLeEWHZDTRwbOYqTYUoV5eGDk=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 11:57:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/products/f8432280-7f08-4df8-8db8-47eb485aa843.s8ymxdnyuo.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\f8432280-7f08-4df8-8db8-47eb485aa843.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"s8ymxdnyuo"},{"Name":"integrity","Value":"sha256-3FslpOgeUNcVgF\u002BrdSaLeEWHZDTRwbOYqTYUoV5eGDk="},{"Name":"label","Value":"_content/Perfumes.API/images/products/f8432280-7f08-4df8-8db8-47eb485aa843.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"80940"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00223FslpOgeUNcVgF\u002BrdSaLeEWHZDTRwbOYqTYUoV5eGDk=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 11:57:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/products/fc3d08ff-ed8c-4948-afca-024a1e1f4f6b.fpqafcwyvo.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\fc3d08ff-ed8c-4948-afca-024a1e1f4f6b.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fpqafcwyvo"},{"Name":"integrity","Value":"sha256-TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG\u002BAt74="},{"Name":"label","Value":"_content/Perfumes.API/images/products/fc3d08ff-ed8c-4948-afca-024a1e1f4f6b.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"142134"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG\u002BAt74=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 10:27:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Perfumes.API/images/products/fc3d08ff-ed8c-4948-afca-024a1e1f4f6b.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\fc3d08ff-ed8c-4948-afca-024a1e1f4f6b.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG\u002BAt74="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"142134"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022TbuCd1fhALrByLn4Gc0d8bqxrF07sdEPas4IpG\u002BAt74=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Aug 2025 10:27:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

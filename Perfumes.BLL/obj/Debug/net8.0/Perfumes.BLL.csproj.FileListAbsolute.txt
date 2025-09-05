@@ -1,0 +1,187 @@
+D:\Perfumes\PerfumeProject\Perfumes\Perfumes.BLL\bin\Debug\net8.0\Perfumes.BLL.deps.json
+D:\Perfumes\PerfumeProject\Perfumes\Perfumes.BLL\bin\Debug\net8.0\Perfumes.BLL.dll
+D:\Perfumes\PerfumeProject\Perfumes\Perfumes.BLL\bin\Debug\net8.0\Perfumes.BLL.pdb
+D:\Perfumes\PerfumeProject\Perfumes\Perfumes.BLL\bin\Debug\net8.0\Perfumes.DAL.dll
+D:\Perfumes\PerfumeProject\Perfumes\Perfumes.BLL\bin\Debug\net8.0\Perfumes.DAL.pdb
+D:\Perfumes\PerfumeProject\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.csproj.AssemblyReference.cache
+D:\Perfumes\PerfumeProject\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Perfumes\PerfumeProject\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.AssemblyInfoInputs.cache
+D:\Perfumes\PerfumeProject\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.AssemblyInfo.cs
+D:\Perfumes\PerfumeProject\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.csproj.CoreCompileInputs.cache
+D:\Perfumes\PerfumeProject\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.05CD3EEB.Up2Date
+D:\Perfumes\PerfumeProject\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.dll
+D:\Perfumes\PerfumeProject\Perfumes\Perfumes.BLL\obj\Debug\net8.0\refint\Perfumes.BLL.dll
+D:\Perfumes\PerfumeProject\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.pdb
+D:\Perfumes\PerfumeProject\Perfumes\Perfumes.BLL\obj\Debug\net8.0\ref\Perfumes.BLL.dll
+C:\Users\7MDI\Downloads\Perfumes\Perfumes\Perfumes.BLL\bin\Debug\net8.0\Perfumes.BLL.deps.json
+C:\Users\7MDI\Downloads\Perfumes\Perfumes\Perfumes.BLL\bin\Debug\net8.0\Perfumes.BLL.dll
+C:\Users\7MDI\Downloads\Perfumes\Perfumes\Perfumes.BLL\bin\Debug\net8.0\Perfumes.BLL.pdb
+C:\Users\7MDI\Downloads\Perfumes\Perfumes\Perfumes.BLL\bin\Debug\net8.0\Perfumes.DAL.dll
+C:\Users\7MDI\Downloads\Perfumes\Perfumes\Perfumes.BLL\bin\Debug\net8.0\Perfumes.DAL.pdb
+C:\Users\7MDI\Downloads\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.csproj.AssemblyReference.cache
+C:\Users\7MDI\Downloads\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\7MDI\Downloads\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.AssemblyInfoInputs.cache
+C:\Users\7MDI\Downloads\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.AssemblyInfo.cs
+C:\Users\7MDI\Downloads\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.csproj.CoreCompileInputs.cache
+C:\Users\7MDI\Downloads\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.05CD3EEB.Up2Date
+C:\Users\7MDI\Downloads\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.dll
+C:\Users\7MDI\Downloads\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\refint\Perfumes.BLL.dll
+C:\Users\7MDI\Downloads\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.pdb
+C:\Users\7MDI\Downloads\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\ref\Perfumes.BLL.dll
+D:\مشاريع\Platform\Perfumes\Perfumes\Perfumes.BLL\bin\Debug\net8.0\Perfumes.BLL.deps.json
+D:\مشاريع\Platform\Perfumes\Perfumes\Perfumes.BLL\bin\Debug\net8.0\Perfumes.BLL.dll
+D:\مشاريع\Platform\Perfumes\Perfumes\Perfumes.BLL\bin\Debug\net8.0\Perfumes.BLL.pdb
+D:\مشاريع\Platform\Perfumes\Perfumes\Perfumes.BLL\bin\Debug\net8.0\Perfumes.DAL.dll
+D:\مشاريع\Platform\Perfumes\Perfumes\Perfumes.BLL\bin\Debug\net8.0\Perfumes.DAL.pdb
+D:\مشاريع\Platform\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.csproj.AssemblyReference.cache
+D:\مشاريع\Platform\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\مشاريع\Platform\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.AssemblyInfoInputs.cache
+D:\مشاريع\Platform\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.AssemblyInfo.cs
+D:\مشاريع\Platform\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.csproj.CoreCompileInputs.cache
+D:\مشاريع\Platform\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.05CD3EEB.Up2Date
+D:\مشاريع\Platform\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.dll
+D:\مشاريع\Platform\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\refint\Perfumes.BLL.dll
+D:\مشاريع\Platform\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.pdb
+D:\مشاريع\Platform\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\ref\Perfumes.BLL.dll
+D:\مشاريع\Platform\Perfumes\Perfumes\Perfumes.BLL\bin\Debug\net8.0\Perfumes.BLL.staticwebassets.endpoints.json
+D:\مشاريع\Platform\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\scopedcss\bundle\Perfumes.BLL.styles.css
+D:\مشاريع\Platform\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\staticwebassets.build.json
+D:\مشاريع\Platform\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\staticwebassets.development.json
+D:\مشاريع\Platform\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\مشاريع\Platform\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\staticwebassets\msbuild.Perfumes.BLL.Microsoft.AspNetCore.StaticWebAssets.props
+D:\مشاريع\Platform\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\staticwebassets\msbuild.Perfumes.BLL.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\مشاريع\Platform\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\staticwebassets\msbuild.build.Perfumes.BLL.props
+D:\مشاريع\Platform\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Perfumes.BLL.props
+D:\مشاريع\Platform\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Perfumes.BLL.props
+D:\مشاريع\Platform\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\staticwebassets.pack.json
+D:\مشاريع\Platform\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\alika\Desktop\Graduation Project Of ITI\Perfumes\Perfumes\Perfumes.BLL\bin\Debug\net8.0\Perfumes.BLL.staticwebassets.endpoints.json
+C:\Users\alika\Desktop\Graduation Project Of ITI\Perfumes\Perfumes\Perfumes.BLL\bin\Debug\net8.0\Perfumes.BLL.deps.json
+C:\Users\alika\Desktop\Graduation Project Of ITI\Perfumes\Perfumes\Perfumes.BLL\bin\Debug\net8.0\Perfumes.BLL.dll
+C:\Users\alika\Desktop\Graduation Project Of ITI\Perfumes\Perfumes\Perfumes.BLL\bin\Debug\net8.0\Perfumes.BLL.pdb
+C:\Users\alika\Desktop\Graduation Project Of ITI\Perfumes\Perfumes\Perfumes.BLL\bin\Debug\net8.0\Perfumes.DAL.dll
+C:\Users\alika\Desktop\Graduation Project Of ITI\Perfumes\Perfumes\Perfumes.BLL\bin\Debug\net8.0\Perfumes.DAL.pdb
+C:\Users\alika\Desktop\Graduation Project Of ITI\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.csproj.AssemblyReference.cache
+C:\Users\alika\Desktop\Graduation Project Of ITI\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\alika\Desktop\Graduation Project Of ITI\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alika\Desktop\Graduation Project Of ITI\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.AssemblyInfoInputs.cache
+C:\Users\alika\Desktop\Graduation Project Of ITI\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.AssemblyInfo.cs
+C:\Users\alika\Desktop\Graduation Project Of ITI\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.csproj.CoreCompileInputs.cache
+C:\Users\alika\Desktop\Graduation Project Of ITI\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\alika\Desktop\Graduation Project Of ITI\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\alika\Desktop\Graduation Project Of ITI\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\alika\Desktop\Graduation Project Of ITI\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\scopedcss\bundle\Perfumes.BLL.styles.css
+C:\Users\alika\Desktop\Graduation Project Of ITI\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\alika\Desktop\Graduation Project Of ITI\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\alika\Desktop\Graduation Project Of ITI\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\alika\Desktop\Graduation Project Of ITI\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\alika\Desktop\Graduation Project Of ITI\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\alika\Desktop\Graduation Project Of ITI\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.05CD3EEB.Up2Date
+C:\Users\alika\Desktop\Graduation Project Of ITI\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.dll
+C:\Users\alika\Desktop\Graduation Project Of ITI\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\refint\Perfumes.BLL.dll
+C:\Users\alika\Desktop\Graduation Project Of ITI\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.pdb
+C:\Users\alika\Desktop\Graduation Project Of ITI\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\ref\Perfumes.BLL.dll
+D:\Perfumes\Perfumes\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.dll
+D:\Perfumes\Perfumes\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\refint\Perfumes.BLL.dll
+D:\Perfumes\Perfumes\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.pdb
+D:\Perfumes\Perfumes\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.csproj.AssemblyReference.cache
+D:\Perfumes\Perfumes\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Perfumes\Perfumes\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Perfumes\Perfumes\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.AssemblyInfoInputs.cache
+D:\Perfumes\Perfumes\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.AssemblyInfo.cs
+D:\Perfumes\Perfumes\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.csproj.CoreCompileInputs.cache
+D:\Perfumes\Perfumes\Perfumes\Perfumes\Perfumes.BLL\bin\Debug\net8.0\Perfumes.BLL.staticwebassets.endpoints.json
+D:\Perfumes\Perfumes\Perfumes\Perfumes\Perfumes.BLL\bin\Debug\net8.0\Perfumes.BLL.deps.json
+D:\Perfumes\Perfumes\Perfumes\Perfumes\Perfumes.BLL\bin\Debug\net8.0\Perfumes.BLL.dll
+D:\Perfumes\Perfumes\Perfumes\Perfumes\Perfumes.BLL\bin\Debug\net8.0\Perfumes.BLL.pdb
+D:\Perfumes\Perfumes\Perfumes\Perfumes\Perfumes.BLL\bin\Debug\net8.0\Perfumes.DAL.dll
+D:\Perfumes\Perfumes\Perfumes\Perfumes\Perfumes.BLL\bin\Debug\net8.0\Perfumes.DAL.pdb
+D:\Perfumes\Perfumes\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Perfumes\Perfumes\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Perfumes\Perfumes\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Perfumes\Perfumes\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\scopedcss\bundle\Perfumes.BLL.styles.css
+D:\Perfumes\Perfumes\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\staticwebassets.build.json
+D:\Perfumes\Perfumes\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Perfumes\Perfumes\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\staticwebassets.development.json
+D:\Perfumes\Perfumes\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Perfumes\Perfumes\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.05CD3EEB.Up2Date
+D:\Perfumes\Perfumes\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\ref\Perfumes.BLL.dll
+C:\Users\SHARKS\Downloads\Perfumes\Perfumes\Perfumes.BLL\bin\Debug\net8.0\Perfumes.BLL.staticwebassets.endpoints.json
+C:\Users\SHARKS\Downloads\Perfumes\Perfumes\Perfumes.BLL\bin\Debug\net8.0\Perfumes.BLL.deps.json
+C:\Users\SHARKS\Downloads\Perfumes\Perfumes\Perfumes.BLL\bin\Debug\net8.0\Perfumes.BLL.dll
+C:\Users\SHARKS\Downloads\Perfumes\Perfumes\Perfumes.BLL\bin\Debug\net8.0\Perfumes.BLL.pdb
+C:\Users\SHARKS\Downloads\Perfumes\Perfumes\Perfumes.BLL\bin\Debug\net8.0\Perfumes.DAL.dll
+C:\Users\SHARKS\Downloads\Perfumes\Perfumes\Perfumes.BLL\bin\Debug\net8.0\Perfumes.DAL.pdb
+C:\Users\SHARKS\Downloads\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.csproj.AssemblyReference.cache
+C:\Users\SHARKS\Downloads\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHARKS\Downloads\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.AssemblyInfoInputs.cache
+C:\Users\SHARKS\Downloads\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.AssemblyInfo.cs
+C:\Users\SHARKS\Downloads\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.csproj.CoreCompileInputs.cache
+C:\Users\SHARKS\Downloads\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\scopedcss\bundle\Perfumes.BLL.styles.css
+C:\Users\SHARKS\Downloads\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\SHARKS\Downloads\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\SHARKS\Downloads\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\SHARKS\Downloads\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\staticwebassets\msbuild.Perfumes.BLL.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SHARKS\Downloads\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\staticwebassets\msbuild.Perfumes.BLL.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\SHARKS\Downloads\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\staticwebassets\msbuild.build.Perfumes.BLL.props
+C:\Users\SHARKS\Downloads\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Perfumes.BLL.props
+C:\Users\SHARKS\Downloads\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Perfumes.BLL.props
+C:\Users\SHARKS\Downloads\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\SHARKS\Downloads\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.05CD3EEB.Up2Date
+C:\Users\SHARKS\Downloads\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.dll
+C:\Users\SHARKS\Downloads\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\refint\Perfumes.BLL.dll
+C:\Users\SHARKS\Downloads\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.pdb
+C:\Users\SHARKS\Downloads\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\ref\Perfumes.BLL.dll
+C:\Users\SHARKS\Downloads\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Perfumes\Perfumes\Perfumes\Perfumes.BLL\bin\Debug\net8.0\Perfumes.BLL.staticwebassets.endpoints.json
+D:\Perfumes\Perfumes\Perfumes\Perfumes.BLL\bin\Debug\net8.0\Perfumes.BLL.deps.json
+D:\Perfumes\Perfumes\Perfumes\Perfumes.BLL\bin\Debug\net8.0\Perfumes.BLL.dll
+D:\Perfumes\Perfumes\Perfumes\Perfumes.BLL\bin\Debug\net8.0\Perfumes.BLL.pdb
+D:\Perfumes\Perfumes\Perfumes\Perfumes.BLL\bin\Debug\net8.0\Perfumes.DAL.dll
+D:\Perfumes\Perfumes\Perfumes\Perfumes.BLL\bin\Debug\net8.0\Perfumes.DAL.pdb
+D:\Perfumes\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.csproj.AssemblyReference.cache
+D:\Perfumes\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Perfumes\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Perfumes\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.AssemblyInfoInputs.cache
+D:\Perfumes\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.AssemblyInfo.cs
+D:\Perfumes\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.csproj.CoreCompileInputs.cache
+D:\Perfumes\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Perfumes\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Perfumes\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Perfumes\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\scopedcss\bundle\Perfumes.BLL.styles.css
+D:\Perfumes\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\staticwebassets.build.json
+D:\Perfumes\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Perfumes\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\staticwebassets.development.json
+D:\Perfumes\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Perfumes\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.05CD3EEB.Up2Date
+D:\Perfumes\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.dll
+D:\Perfumes\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\refint\Perfumes.BLL.dll
+D:\Perfumes\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.pdb
+D:\Perfumes\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\ref\Perfumes.BLL.dll
+C:\Users\SHARKS\Downloads\Perfumes upgraded\Perfumes\Perfumes\Perfumes.BLL\bin\Debug\net8.0\Perfumes.BLL.staticwebassets.endpoints.json
+C:\Users\SHARKS\Downloads\Perfumes upgraded\Perfumes\Perfumes\Perfumes.BLL\bin\Debug\net8.0\Perfumes.BLL.deps.json
+C:\Users\SHARKS\Downloads\Perfumes upgraded\Perfumes\Perfumes\Perfumes.BLL\bin\Debug\net8.0\Perfumes.BLL.dll
+C:\Users\SHARKS\Downloads\Perfumes upgraded\Perfumes\Perfumes\Perfumes.BLL\bin\Debug\net8.0\Perfumes.BLL.pdb
+C:\Users\SHARKS\Downloads\Perfumes upgraded\Perfumes\Perfumes\Perfumes.BLL\bin\Debug\net8.0\Perfumes.DAL.dll
+C:\Users\SHARKS\Downloads\Perfumes upgraded\Perfumes\Perfumes\Perfumes.BLL\bin\Debug\net8.0\Perfumes.DAL.pdb
+C:\Users\SHARKS\Downloads\Perfumes upgraded\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.csproj.AssemblyReference.cache
+C:\Users\SHARKS\Downloads\Perfumes upgraded\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHARKS\Downloads\Perfumes upgraded\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.AssemblyInfoInputs.cache
+C:\Users\SHARKS\Downloads\Perfumes upgraded\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.AssemblyInfo.cs
+C:\Users\SHARKS\Downloads\Perfumes upgraded\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.csproj.CoreCompileInputs.cache
+C:\Users\SHARKS\Downloads\Perfumes upgraded\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\scopedcss\bundle\Perfumes.BLL.styles.css
+C:\Users\SHARKS\Downloads\Perfumes upgraded\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\SHARKS\Downloads\Perfumes upgraded\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\SHARKS\Downloads\Perfumes upgraded\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\SHARKS\Downloads\Perfumes upgraded\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\staticwebassets\msbuild.Perfumes.BLL.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SHARKS\Downloads\Perfumes upgraded\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\staticwebassets\msbuild.Perfumes.BLL.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\SHARKS\Downloads\Perfumes upgraded\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\staticwebassets\msbuild.build.Perfumes.BLL.props
+C:\Users\SHARKS\Downloads\Perfumes upgraded\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Perfumes.BLL.props
+C:\Users\SHARKS\Downloads\Perfumes upgraded\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Perfumes.BLL.props
+C:\Users\SHARKS\Downloads\Perfumes upgraded\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\SHARKS\Downloads\Perfumes upgraded\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.05CD3EEB.Up2Date
+C:\Users\SHARKS\Downloads\Perfumes upgraded\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.dll
+C:\Users\SHARKS\Downloads\Perfumes upgraded\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\refint\Perfumes.BLL.dll
+C:\Users\SHARKS\Downloads\Perfumes upgraded\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\Perfumes.BLL.pdb
+C:\Users\SHARKS\Downloads\Perfumes upgraded\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\ref\Perfumes.BLL.dll
+C:\Users\SHARKS\Downloads\Perfumes upgraded\Perfumes\Perfumes\Perfumes.BLL\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

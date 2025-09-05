@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perfume Store - Chatbot Demo</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 2rem 0;
+            text-align: center;
+        }
+
+        .header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+        }
+
+        .header p {
+            font-size: 1.2rem;
+            opacity: 0.9;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        .hero {
+            padding: 4rem 0;
+            text-align: center;
+            background: #f8f9fa;
+        }
+
+        .hero h2 {
+            font-size: 2rem;
+            margin-bottom: 1rem;
+            color: #333;
+        }
+
+        .hero p {
+            font-size: 1.1rem;
+            color: #666;
+            margin-bottom: 2rem;
+        }
+
+        .features {
+            padding: 4rem 0;
+        }
+
+        .features h2 {
+            text-align: center;
+            font-size: 2rem;
+            margin-bottom: 3rem;
+            color: #333;
+        }
+
+        .features-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+        }
+
+        .feature-card {
+            background: white;
+            padding: 2rem;
+            border-radius: 10px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+
+        .feature-icon {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+        }
+
+        .feature-card h3 {
+            font-size: 1.5rem;
+            margin-bottom: 1rem;
+            color: #333;
+        }
+
+        .feature-card p {
+            color: #666;
+            line-height: 1.6;
+        }
+
+        .demo-section {
+            padding: 4rem 0;
+            background: #f8f9fa;
+        }
+
+        .demo-section h2 {
+            text-align: center;
+            font-size: 2rem;
+            margin-bottom: 2rem;
+            color: #333;
+        }
+
+        .demo-content {
+            text-align: center;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        .demo-content p {
+            font-size: 1.1rem;
+            color: #666;
+            margin-bottom: 2rem;
+        }
+
+        .cta-button {
+            display: inline-block;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 1rem 2rem;
+            border-radius: 50px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: transform 0.3s ease;
+        }
+
+        .cta-button:hover {
+            transform: translateY(-2px);
+        }
+
+        .integration-code {
+            background: #2d3748;
+            color: #e2e8f0;
+            padding: 2rem;
+            border-radius: 10px;
+            margin: 2rem 0;
+            overflow-x: auto;
+        }
+
+        .integration-code pre {
+            margin: 0;
+            font-family: 'Courier New', monospace;
+            font-size: 14px;
+        }
+
+        .footer {
+            background: #333;
+            color: white;
+            text-align: center;
+            padding: 2rem 0;
+        }
+
+        .footer p {
+            opacity: 0.8;
+        }
+
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 2rem;
+            }
+
+            .hero h2 {
+                font-size: 1.5rem;
+            }
+
+            .features-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <h1>Perfume Store Chatbot</h1>
+            <p>AI-Powered Customer Support & Product Recommendations</p>
+        </div>
+    </header>
+
+    <section class="hero">
+        <div class="container">
+            <h2>Transform Your Customer Experience</h2>
+            <p>Our intelligent chatbot provides instant support, product recommendations, and personalized assistance to help customers find their perfect fragrance.</p>
+            <a href="#demo" class="cta-button">Try the Chatbot</a>
+        </div>
+    </section>
+
+    <section class="features">
+        <div class="container">
+            <h2>Key Features</h2>
+            <div class="features-grid">
+                <div class="feature-card">
+                    <div class="feature-icon">🤖</div>
+                    <h3>AI-Powered Responses</h3>
+                    <p>Intelligent responses based on customer queries, product knowledge, and conversation context.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🛍️</div>
+                    <h3>Product Recommendations</h3>
+                    <p>Smart product suggestions based on customer preferences, search queries, and browsing behavior.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">💬</div>
+                    <h3>24/7 Support</h3>
+                    <p>Always available to answer questions about shipping, returns, payments, and product information.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">📱</div>
+                    <h3>Mobile Responsive</h3>
+                    <p>Works seamlessly on all devices with a beautiful, modern interface that adapts to any screen size.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">⚡</div>
+                    <h3>Instant Responses</h3>
+                    <p>Lightning-fast responses with typing indicators and smooth animations for a professional experience.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">📊</div>
+                    <h3>Analytics & Insights</h3>
+                    <p>Track conversation metrics, customer satisfaction, and popular queries to improve your service.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="demo-section" id="demo">
+        <div class="container">
+            <h2>Integration Demo</h2>
+            <div class="demo-content">
+                <p>This page demonstrates the chatbot widget in action. Click the chat button in the bottom-right corner to start a conversation!</p>
+                
+                <h3>Easy Integration</h3>
+                <p>Add the chatbot to any webpage with just a few lines of code:</p>
+                
+                <div class="integration-code">
+                    <pre><code>&lt;!-- Add this to your HTML head or body --&gt;
+&lt;script src="chatbot-widget.js"&gt;&lt;/script&gt;
+
+&lt;!-- Initialize the chatbot --&gt;
+&lt;script&gt;
+    new PerfumeChatbotWidget({
+        apiUrl: 'http://localhost:5036/api/chatbot',
+        position: 'bottom-right',
+        title: 'Perfume Assistant',
+        subtitle: 'Ask me anything!'
+    });
+&lt;/script&gt;</code></pre>
+                </div>
+
+                <h3>Customization Options</h3>
+                <p>The chatbot is highly customizable. You can change the position, colors, title, and more to match your brand.</p>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2024 Perfume Store. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <!-- Chatbot Widget -->
+    <script src="chatbot-widget.js"></script>
+    <script>
+        // Initialize the chatbot widget
+        new PerfumeChatbotWidget({
+            apiUrl: 'http://localhost:5036/api/chatbot',
+            position: 'bottom-right',
+            title: 'Perfume Assistant',
+            subtitle: 'Ask me anything!'
+        });
+    </script>
+</body>
+</html>
